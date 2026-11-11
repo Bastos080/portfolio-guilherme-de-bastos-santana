@@ -1,0 +1,124 @@
+body {
+    padding-top: 75px;
+    background-color: hsl(240, 5%, 7%);
+    text-align: center;
+    
+}
+
+h1 {
+    color: #00f0ff;
+}
+
+h2 {
+    color: #00f0ff;
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+
+.navbar-nav {
+    margin: 0 auto;
+}
+
+p {
+    color: #ffffff;
+    max-width: 900px; 
+    margin: 15px auto; 
+    text-align: left;
+}
+
+
+img {
+    display: block;
+    margin: 30px auto;
+    max-width: 100%;
+    height: auto;
+}
+
+
+main .col-md-4 p {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.foto-galeria {
+    height: 160px !important;
+    width: 100%;
+    object-fit: cover;
+    margin: 0 0 10px 0;
+    border-radius: 8px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.foto-galeria:hover {
+    transform: scale(1.03);
+}
+
+.foto-dados {
+    max-width: 400px;
+    height: auto;
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+
+.foto-dados-fixa {
+    max-width: 450px;       
+    height: auto;
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 8px;
+    display: block;         
+}
+
+.campo-formulario {
+    width: 100%;
+    padding: 8px;
+    background-color: #1a1a1e;
+    border: 1px solid #333;
+    color: #fff;
+    border-radius: 4px;
+    margin-top: 5px;
+    box-sizing: border-box;
+}
+.accordion {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+.accordion-item {
+    background-color: #212529;
+    border: 1px solid #495057;
+    border-radius: 0.375rem;
+    overflow: hidden;
+}
+.accordion-header {
+    padding: 1rem;
+    font-weight: 500;
+    color: #0dcaf0;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    user-select: none;
+}
+
+.accordion-header::-webkit-details-marker {
+    display: none;
+}
+
+.accordion-icon {
+    width: 1rem;
+    height: 1rem;
+    transition: transform 0.2s ease;
+}
+
+details[open] .accordion-icon {
+    transform: rotate(180deg);
+}
+
+.accordion-body {
+    padding: 1rem;
+    color: #adb5bd;
+    border-top: 1px solid #495057;
+    background-color: #1a1d20;
+}   
