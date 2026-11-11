@@ -27,7 +27,7 @@ Curto transformar ideias em códigos e resolver problemas reais através da tecn
 ---
 
 ## 💻 Deploy e Acesso
-- **Repositório do Projeto:** [Ver Código-Fonte](https://github.com/Bastos080/portfolio-guilherme-de-bastos-santana)
+- **Repositório do Projeto:** [[Ver Código-Fonte](https://github.com/Bastos080/portfolio-guilherme-de-bastos-santana)](https://bastos080.github.io/Meu_projeto1/)
 - **Acesse o Portfólio Principal:** [Voltar à Página Principal](https://github.com/Bastos080/portfolio-guilherme-de-bastos-santana)
 
 ---
