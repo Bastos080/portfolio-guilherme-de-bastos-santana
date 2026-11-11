@@ -8,7 +8,7 @@ O site foi desenvolvido para destacar peças de vestuário de modelagem ampla e 
 ---
 
 ## 💻 Deploy do Projeto
-👉 **[Clique aqui para acessar o site UrbanStyle no ar](https://bastos080.github.io/portfolio-guilherme-de-bastos-santana/AT2-Deploy-de-Site/)**
+👉 **(https://bastos080.github.io/portfolio-guilherme-de-bastos-santana/AT2-Deploy-de-Site/)**
 
 ---
 
