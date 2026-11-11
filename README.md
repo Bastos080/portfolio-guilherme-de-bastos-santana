@@ -37,6 +37,12 @@ Atualmente cursando o **2º semestre** do tecnólogo em **Análise e Desenvolvim
 #### 🗄 Banco de Dados
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+
+#### 🤖 Inteligências Artificiais & Assistentes
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-%23000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatgpt-%2374aa9c.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/gemini-%238E75B2.svg?style=for-the-badge&logo=google&logoColor=white)
+
 ---
 
 ### 📂 Portfólio de Projetos
