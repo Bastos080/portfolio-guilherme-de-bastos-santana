@@ -47,7 +47,7 @@ Atualmente curso o **2º semestre** do tecnólogo em **Análise e Desenvolviment
   <img src="https://img.shields.io/badge/app_inventor-%23800080.svg?style=for-the-badge&logo=appinventor&logoColor=white" alt="App Inventor">
   <img src="https://img.shields.io/badge/portugol-%23007ACC.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Portugol">
   <img src="https://img.shields.io/badge/bootstrap-%238512B8.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/cisco_redes-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
+  <img src="https://img.shields.io/badge/cisco_packet tracer-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
 </p>
 
 ### 🗄️ Bancos de Dados & Controle de Versão
