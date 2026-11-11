@@ -1,0 +1,433 @@
+/* ==========================================
+   Configurações Globais
+========================================== */
+body {
+    background-color: #f0f0f0;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    margin: 0;
+    color: #111111;
+}
+
+/* ==========================================
+   Cabeçalho (Header)
+========================================== */
+header {
+    width: 1000px;
+    height: 110px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid #111111;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+header h1 {
+    font-size: 24px;
+    letter-spacing: 5px;
+    font-weight: 700;
+    margin: 0;
+    color: #000000;
+}
+
+/* Para a Home */
+.header-content {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+}
+
+.header-label,
+.header-number {
+    font-size: 10px;
+    letter-spacing: 2px;
+    color: #666666;
+}
+
+/* ==========================================
+   Menu
+========================================== */
+nav {
+    width: 1000px;
+    height: 55px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+
+ul li {
+    display: inline-block;
+    padding: 18px 25px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #666666;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    transition: color 0.25s ease;
+}
+
+ul li a:hover,
+ul li a.ativo {
+    color: #000000;
+    text-decoration: underline;
+    text-underline-offset: 6px;
+}
+
+/* ==========================================
+   Main
+========================================== */
+main {
+    width: 1000px;
+    min-height: 650px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    overflow-y: auto;
+    box-sizing: border-box;
+    padding: 35px;
+}
+
+/* ==========================================
+   Footer
+========================================== */
+footer {
+    width: 1000px;
+    height: 40px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-top: 1px solid #e0e0e0;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    box-sizing: border-box;
+    font-size: 11px;
+    letter-spacing: 1px;
+}
+
+/* ==========================================
+   Vitrine Looks
+========================================== */
+.vitrine-4-colunas {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    margin-top: 5px;
+}
+
+.card-foto-4 {
+    width: 222px;
+    height: 390px;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 3px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    transition: transform 0.35s cubic-bezier(0.16,1,0.3,1);
+}
+
+.card-foto-4:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+}
+
+.foto-1 {
+    background-image: url('../image/Captura de tela 2026-09-08 093935.png');
+}
+
+.foto-2 {
+    background-image: url('../image/Captura de tela 2026-09-08 093800.png');
+}
+
+.foto-3 {
+    background-image: url('../image/Captura de tela 2026-09-08 093724.png');
+}
+
+.foto-4 {
+    background-image: url('../image/Captura de tela 2026-09-08 093712.png');
+}
+
+/* ==========================================
+   Tag Novo
+========================================== */
+.tag-novo-1 {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 9px;
+    font-weight: 700;
+    padding: 5px 9px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    border-radius: 2px;
+}
+
+/* ==========================================
+   Sobre e Contato
+========================================== */
+.conteudo-pagina {
+    max-width: 650px;
+    margin: 10px auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.conteudo-pagina h2 {
+    font-size: 16px;
+    letter-spacing: 3px;
+    font-weight: 700;
+    margin-bottom: 25px;
+    color: #111111;
+    text-transform: uppercase;
+}
+
+.conteudo-pagina p {
+    color: #555555;
+    line-height: 1.8;
+    font-size: 13px;
+    margin-bottom: 18px;
+}
+
+.caixa-contato {
+    background-color: #fafafa;
+    padding: 25px 35px;
+    border: 1px solid #e5e5e5;
+    border-radius: 4px;
+    display: inline-block;
+    text-align: left;
+    margin-top: 15px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.02);
+}
+
+.caixa-contato p {
+    margin: 10px 0;
+    color: #222222;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+}
+
+.caixa-contato strong {
+    color: #000000;
+}
+
+/* ==========================================
+   Home
+========================================== */
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+    margin-bottom: 60px;
+}
+
+.hero-image {
+    width: 420px;
+    position: relative;
+}
+
+.hero-image img {
+    width: 100%;
+    display: block;
+    border-radius: 3px;
+}
+
+.image-label {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    background: #000;
+    color: #fff;
+    font-size: 9px;
+    padding: 5px 9px;
+    letter-spacing: 1.5px;
+}
+
+.image-side {
+    position: absolute;
+    bottom: 12px;
+    right: 12px;
+    background: rgba(0,0,0,0.7);
+    color: #fff;
+    font-size: 9px;
+    padding: 5px 9px;
+    letter-spacing: 1.5px;
+}
+
+.hero-content {
+    flex: 1;
+}
+
+.small-title {
+    display: block;
+    font-size: 11px;
+    letter-spacing: 2px;
+    color: #666;
+    margin-bottom: 15px;
+}
+
+.hero-content h2 {
+    font-size: 58px;
+    line-height: 1;
+    margin: 15px 0 25px;
+}
+
+.hero-content p {
+    font-size: 13px;
+    color: #555;
+    line-height: 1.8;
+    max-width: 420px;
+}
+
+.main-button,
+.outline-button {
+    display: inline-block;
+    text-decoration: none;
+    background: #000;
+    color: #fff;
+    padding: 12px 22px;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-top: 20px;
+}
+
+.main-button:hover,
+.outline-button:hover {
+    opacity: 0.85;
+}
+
+.concept {
+    margin-top: 60px;
+    padding-top: 40px;
+    border-top: 1px solid #e5e5e5;
+    display: flex;
+    gap: 50px;
+}
+
+.concept-title {
+    width: 45%;
+}
+
+.concept-title span {
+    font-size: 11px;
+    letter-spacing: 2px;
+    color: #666;
+}
+
+.concept-title h2 {
+    margin-top: 15px;
+    font-size: 38px;
+    line-height: 1.1;
+}
+
+.concept-text {
+    width: 55%;
+}
+
+.concept-text p {
+    font-size: 13px;
+    line-height: 1.8;
+    color: #555;
+}
+
+.highlights {
+    margin-top: 70px;
+}
+
+.highlights-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.highlights-header span {
+    font-size: 11px;
+    letter-spacing: 2px;
+    color: #666;
+}
+
+.highlights-header h2 {
+    font-size: 34px;
+    margin-top: 10px;
+}
+
+.highlights-header p {
+    font-size: 12px;
+    text-align: right;
+    color: #555;
+}
+
+.highlight-grid {
+    display: flex;
+    gap: 15px;
+}
+
+.highlight-item {
+    flex: 1;
+    background: #fafafa;
+    border: 1px solid #e5e5e5;
+    padding: 20px;
+}
+
+.highlight-item span {
+    font-size: 20px;
+    font-weight: bold;
+    color: #999;
+}
+
+.highlight-item h3 {
+    margin: 12px 0;
+}
+
+.highlight-item p {
+    font-size: 12px;
+    color: #555;
+    line-height: 1.7;
+}
+
+.looks-call {
+    margin-top: 70px;
+    text-align: center;
+    padding: 40px;
+    border-top: 1px solid #e5e5e5;
+}
+
+.looks-call span {
+    font-size: 11px;
+    letter-spacing: 2px;
+    color: #666;
+}
+
+.looks-call h2 {
+    font-size: 42px;
+    margin: 20px 0;
+}
+
+.looks-call p {
+    width: 500px;
+    max-width: 100%;
+    margin: 0 auto 25px;
+    color: #555;
+    line-height: 1.8;
+    font-size: 13px;
+}
