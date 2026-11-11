@@ -28,8 +28,8 @@ O projeto foi construído por **Guilherme de Bastos Santana** com foco em organi
 ---
 
 ## 💻 Deploy & Links do Projeto
-- 🌐 **Acesse o site no ar:** [Visualizar Deploy - A Era dos Games](https://bastos080.github.io/portfolio-guilherme-de-bastos-santana/AT4-Site-Multi-Paginas-Boostrap/)
-- ↩️ **Voltar ao repositório principal:** [Portfólio Principal](https://github.com/Bastos080/portfolio-guilherme-de-bastos-santana)
+- 🌐 **Acesse o site no ar:**  https://bastos080.github.io/era-dos-games3/
+- ↩️ **Voltar ao repositório principal:** (https://github.com/Bastos080/portfolio-guilherme-de-bastos-santana)
 
 ---
 © 2026 Guilherme de Bastos Santana. Todos os direitos reservados.[cite: 16, 20]
