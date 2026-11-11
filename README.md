@@ -1,5 +1,5 @@
 # Guilherme de Bastos Santana
-> **Estudante de Análise e Desenvolvimento de Sistemas** 🚀 
+> **Estudante de Análise e Desenvolvimento de Sistemas** 🚀 | Desenvolvedor Front-End & Apaixonado por Tecnologia
 
 ---
 
@@ -55,3 +55,46 @@ Atualmente curso o **2º semestre** do tecnólogo em **Análise e Desenvolviment
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+### 🤖 Inteligências Artificiais & Assistentes de Desenvolvimento
+<p>
+  <img src="https://img.shields.io/badge/claude-%23D97706.svg?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/deepseek-%232A62FF.svg?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek">
+  <img src="https://img.shields.io/badge/github_copilot-%23000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
+  <img src="https://img.shields.io/badge/chatgpt-%2374aa9c.svg?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/gemini-%238E75B2.svg?style=for-the-badge&logo=google&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/perplexity-%2320B2AA.svg?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity">
+  <img src="https://img.shields.io/badge/v0-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="v0">
+</p>
+
+---
+
+## 📂 Portfólio de Projetos Acadêmicos & Pessoais
+
+### 🌐 Desenvolvimento Front-End & Web
+| Projeto | Descrição Detalhada | Repositório / Link |
+| :--- | :--- | :---: |
+| **UrbanStyle** | E-commerce e vitrine digital de moda streetwear focado em modelagens amplas (Baggy, Cargo, Wide Leg). | [Ver Projeto](./AT2-Deploy-de-Site/) |
+| **Calculadora IMC** | Aplicação web interativa desenvolvida para cálculo dinâmico e feedback imediato do Índice de Massa Corporal. | [Ver Projeto](./AT3-Calculadora-IMC/) |
+| **A Era dos Games** | Site multipáginas responsivo explorando gerações de consoles com framework Bootstrap 5 e estilização avançada. | [Ver Projeto](./AT4-Site-Multi-Paginas-Boostrap/) |
+| **Futuro & Sociedade** | Análise socioeconômica sobre comportamento da Geração Z e questionário interativo de equilíbrio digital. | [Ver Projeto](./AT5-Front-End-copilotado-com-IA/) |
+
+### 🗃️ Banco de Dados & Algoritmos
+| Projeto | Descrição Detalhada | Repositório / Link |
+| :--- | :--- | :---: |
+| **Gestão Kallan Calçados** | Modelagem relacional, scripts DDL/DML e normalização rigorosa até a 3ª Forma Normal (3FN) aplicada ao varejo. | [Ver Projeto](./AT6-Dicionario-de-dados/) |
+
+---
+
+## 🏗️ Estrutura do Repositório
+
+```text
+portfolio-guilherme-de-bastos-santana/
+├── README.md                              # Documentação e apresentação principal do portfólio
+├── AT2-Deploy-de-Site/                    # Projeto UrbanStyle (E-commerce Streetwear)
+├── AT3-Calculadora-IMC/                   # Aplicação web Calculadora de IMC
+├── AT4-Site-Multi-Paginas-Boostrap/       # A Era dos Games (Portal multipáginas)
+├── AT5-Front-End-copilotado-com-IA/       # Análise interativa da Geração Z
+└── AT6-Dicionario-de-dados/               # Documentação de modelagem e scripts SQL (Kallan Calçados)
