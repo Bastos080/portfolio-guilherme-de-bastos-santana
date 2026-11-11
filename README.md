@@ -28,7 +28,7 @@ Atualmente curso o **2º semestre** do tecnólogo em **Análise e Desenvolviment
 - **Certificações Principais:** 
   * 🥇 Microsoft Certified: **Azure AI Fundamentals (AI-900)**.
   * ⚙️ Extensões técnicas do SENAI em **Generative AI**, **IoT 4.0**, **Indústria 4.0** e **5G**.
-  * * 📜 **Competências Transversais e Tecnológicas (SENAI):** Web 3.0, Segurança no Trabalho, Desvendando a Indústria 4.0, Privacidade e Proteção de Dados (LGPD), Empreender SENAI, Fluência - Fundamentos da Inteligência Artificial, Generative AI, IoT 4.0 e 5G.
+  *  📜 **Competências Transversais e Tecnológicas (SENAI):**
 
 ---
 
