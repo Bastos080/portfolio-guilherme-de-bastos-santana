@@ -39,9 +39,14 @@ Atualmente cursando o **2º semestre** do tecnólogo em **Análise e Desenvolvim
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
 #### 🤖 Inteligências Artificiais & Assistentes
+![Claude](https://img.shields.io/badge/claude-%23D97706.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/deepseek-%232A62FF.svg?style=for-the-badge&logo=deepseek&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-%23000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatgpt-%2374aa9c.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/gemini-%238E75B2.svg?style=for-the-badge&logo=google&logoColor=white)
+![Perplexity](https://img.shields.io/badge/perplexity-%2320B2AA.svg?style=for-the-badge&logo=perplexity&logoColor=white)
+![Blackbox AI](https://img.shields.io/badge/blackbox_ai-%231E1E1E.svg?style=for-the-badge&logo=blackbox&logoColor=white)
+![v0 by Vercel](https://img.shields.io/badge/v0-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
