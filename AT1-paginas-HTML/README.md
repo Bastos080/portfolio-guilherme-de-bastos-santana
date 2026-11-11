@@ -3,12 +3,12 @@
 ## 📝 Descrição do Projeto
 Este projeto consiste no desenvolvimento de uma **Página Pessoal** estruturada inteiramente com foco em **HTML Semântico** e boas práticas de desenvolvimento Front-End. O objetivo principal é apresentar a identidade profissional, competências técnicas e a trajetória acadêmica de forma acessível, limpa e otimizada para os navegadores e leitores de tela.
 
-Desenvolvido por **Guilherme de Bastos Santana**[cite: 1] como parte das atividades práticas de **Análise e Tecnologias Web**, o projeto aplica conceitos de estruturação correta de tags (`<header>`, `<main>`, `<section>`, `<footer>`), organização de conteúdo e estilização responsiva.
+Desenvolvido por **Guilherme de Bastos Santana** como parte das atividades práticas de **Análise e Tecnologias Web**, o projeto aplica conceitos de estruturação correta de tags (`<header>`, `<main>`, `<section>`, `<footer>`), organização de conteúdo e estilização responsiva.
 
 ---
 
 ## 👨‍💻 Sobre o Desenvolvedor
-Estudante do **2º semestre** de **Análise e Desenvolvimento de Sistemas na UNICID (Campus Tatuapé)**[cite: 1]. Apaixonado por tecnologia, com foco em desenvolvimento web, usabilidade e lógica de programação.
+Curto transformar ideias em códigos e resolver problemas reais através da tecnologia. Atualmente, estou no 2º semestre de Análise e Desenvolvimento de Sistemas na UNICID (Campus Tatuapé), focado em desenvolvimento web e lógica de programação.
 
 ---
 
