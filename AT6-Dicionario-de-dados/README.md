@@ -12,8 +12,15 @@ Este repositório documenta e estrutura o projeto académico e prático **Meu Di
 2. **Engenharia de Requisitos e Regras de Negócio:**
    * Análise detalhada e documentação formal baseada em cenários do mundo real (como o estudo de caso da **Kallan Calçados**), mapeando fluxos operacionais, requisitos funcionais e não funcionais na pasta `docs/`.
 
-3. **Desenvolvimento Front-end:**
+3. **Desenvolvimento Front-end & Interface:**
    * Implementação de uma interface web responsiva e funcional utilizando **HTML5**, **CSS3** e **JavaScript**, permitindo a navegação dinâmica e consulta de termos/dados.
+
+---
+
+## 🤖 Uso de Inteligência Artificial no Projeto
+A Inteligência Artificial desempenhou um papel essencial no suporte ao desenvolvimento técnico deste projeto:
+- **Apoio ao Desenvolvimento & Resolução de Erros:** Utilização do **ChatGPT** e do **Gemini** para auxiliar no *debugging* de código JavaScript/CSS e estruturação lógica da interface.
+- **Copywriting e Documentação:** Suporte na formatação, revisão técnica e padronização dos textos descritivos e dos requisitos de negócio.
 
 ---
 
@@ -28,8 +35,7 @@ Meu_dicionario/
 │
 ├── assets/
 │   ├── der.jpg             # Diagrama Entidade-Relacionamento (DER)
-│                  
+│          
 │
 └── docs/
     ├── Especificacao_Requisitos_Regras_Negocio_Kallan_no_Molde.pdf # Documentação de regras de negócio e requisitos
-
