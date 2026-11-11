@@ -1,31 +1,33 @@
-# 🛍️ UrbanStyle — E-Commerce & Vitrine de Streetwear
+# 🛍️ UrbanStyle — E-Commerce & Vitrine Streetwear
 
 ## 📝 Descrição do Projeto
-O **UrbanStyle** é um projeto de desenvolvimento web front-end focado na criação de uma plataforma de e-commerce e vitrine digital inspirada nas principais tendências da **cultura urbana e streetwear**[cite: 9]. 
+O **UrbanStyle** é uma aplicação web desenvolvida para apresentar uma vitrine digital inspirada na cultura urbana e na estética streetwear[cite: 9]. 
 
-O site foi desenvolvido para destacar peças de vestuário de modelagem ampla e despojada (como calças *Baggy*, *Wide Leg* e *Cargo*)[cite: 9], combinando um design minimalista, elegante e de forte identidade visual com uma navegação fluida e intuitiva para o usuário[cite: 9].
----
+A plataforma foi projetada para destacar peças de vestuário com modelagens amplas e autênticas — como calças **Baggy**, **Wide Leg**, **Cargo** e **Denim**[cite: 9]. O projeto une um design minimalista, limpo e moderno a uma navegação fluida, entregando uma experiência intuitiva e agradável para o usuário[cite: 9].
 
-## 🚀 Tecnologias e Ferramentas Utilizadas
-- **Linguagens:** HTML5 e CSS3
-- **Controle de Versão:** Git e GitHub
-- **Ambiente de Desenvolvimento:** VS Code
-- **Inteligências Artificiais de Apoio:** ChatGPT, Claude, Gemini, DeepSeek e GitHub Copilot
+Desenvolvido por **Guilherme de Bastos Santana** como parte das atividades práticas de **Desenvolvimento Front-End**, o projeto explora a construção de um site multipáginas, organização estrutural semântica e estilização voltada para e-commerce de moda.
 
 ---
 
-## ✨ Destaques e Seções do Projeto
-- **Página Inicial (Home):** Banner imersivo com forte apelo visual (*"Vista sua atitude"*)[cite: 9], seções de introdução à marca[cite: 9], categorias em destaque (*Baggy, WDC, Cargo, Denim*)[cite: 9] e chamada para ação para a coleção[cite: 9].
-- **Página Sobre (Quem Somos):** Apresentação da proposta da marca, focada em conforto, durabilidade e atitude urbana[cite: 10].
-- **Página de Coleção / Produtos:** Vitrine organizada com fotos de alta qualidade e foco em calças streetwear[cite: 11].
-- **Página de Contato:** Canais de atendimento e informações de suporte ao cliente estruturados de forma limpa[cite: 12].
+## 🚀 Tecnologias e Ferramentas
+- 💻 **Linguagens:** HTML5 e CSS3
+- 🔧 **Ambiente de Desenvolvimento:** VS Code
+- 📦 **Controle de Versão:** Git e GitHub
+- 🤖 **IAs de Apoio ao Desenvolvimento:** ChatGPT, Claude, Gemini, DeepSeek e GitHub Copilot
 
 ---
 
+## ✨ Seções da Aplicação
+- 🏠 **Home:** Banner conceitual (*"Vista sua atitude"*)[cite: 9], introdução à essência da marca[cite: 9] e destaque para as principais categorias de calças[cite: 9].
+- 📖 **Sobre Nós:** História e proposta da marca focada em estilo urbano, conforto e durabilidade[cite: 10].
+- 👕 **Produtos / Coleção:** Vitrine organizada exibindo as peças e modelos da marca[cite: 11].
+- 📞 **Contato:** Canais diretos de atendimento ao cliente com layout estruturado[cite: 12].
 
+---
 
-## 💻 Deploy do Projeto
-👉 **(https://bastos080.github.io/portfolio-guilherme-de-bastos-santana/AT2-Deploy-de-Site/)**
-👉 Acesse o Portfólio Principal: (https://github.com/Bastos080/portfolio-guilherme-de-bastos-santana)
+## 💻 Deploy & Links do Projeto
+- 🌐 **Acesse o site no ar:** https://bastos080.github.io/site1/
+- ↩️ **Voltar ao repositório principal:** (https://github.com/Bastos080/portfolio-guilherme-de-bastos-santana)
+
 ---
 © 2026 Guilherme de Bastos Santana. Todos os direitos reservados.
