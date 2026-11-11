@@ -82,7 +82,6 @@ Atualmente curso o **2º semestre** do tecnólogo em **Análise e Desenvolviment
 | Projeto | Descrição Detalhada | Repositório / Link |
 | :--- | :--- | :---: |
 | **Gestão Kallan Calçados** | Modelagem relacional, scripts DDL/DML e normalização rigorosa até a 3ª Forma Normal (3FN) aplicada ao varejo. | [Ver Projeto](./AT6-Dicionario-de-dados/) |
-| **Sistema de Gestão em C** | Sistema estruturado em Linguagem C utilizando manipulação de ponteiros, arquivos e algoritmos de ordenação (Bubble Sort). | [Ver Projeto](./sistema-loja-c/) |
 
 ---
 
