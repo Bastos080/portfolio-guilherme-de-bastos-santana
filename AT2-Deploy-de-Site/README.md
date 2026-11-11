@@ -9,11 +9,18 @@ Desenvolvido por **Guilherme de Bastos Santana** como parte das atividades prát
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 - 💻 **Linguagens:** HTML5 e CSS3
 - 🔧 **Ambiente de Desenvolvimento:** VS Code
 - 📦 **Controle de Versão:** Git e GitHub
-- 🤖 **IAs de Apoio ao Desenvolvimento:** ChatGPT, Claude, Gemini, DeepSeek e GitHub Copilot
+- 🤖 **IAs de Apoio ao Desenvolvimento & Criação:** ChatGPT e Gemini
+
+---
+
+## 🤖 Uso de Inteligência Artificial no Projeto
+A Inteligência Artificial desempenhou um papel de suporte estratégico no desenvolvimento e polimento da aplicação:
+- **Resolução de Erros e Debugging:** Utilização do **ChatGPT** e do **Gemini** para identificar e corrigir falhas de layout no CSS e estruturação semântica do HTML.
+- **Copywriting e Conteúdo:** Apoio na elaboração e refinamento dos textos descritivos e no tom editorial voltado para a identidade visual da marca streetwear.
 
 ---
 
@@ -27,7 +34,7 @@ Desenvolvido por **Guilherme de Bastos Santana** como parte das atividades prát
 
 ## 💻 Deploy & Links do Projeto
 - 🌐 **Acesse o site no ar:** https://bastos080.github.io/site1/
-- ↩️ **Voltar ao repositório principal:** (https://github.com/Bastos080/portfolio-guilherme-de-bastos-santana)
+- ↩️ **Voltar ao repositório principal:** https://github.com/Bastos080/portfolio-guilherme-de-bastos-santana
 
 ---
 © 2026 Guilherme de Bastos Santana. Todos os direitos reservados.
