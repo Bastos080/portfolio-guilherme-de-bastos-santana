@@ -29,7 +29,7 @@ O site foi desenvolvido para destacar peças de vestuário de modelagem ampla e 
 ---
 
 ## 🔗 Links Úteis
-- **Repositório do Portfólio Principal:** [Voltar ao Portfólio Principal](https://github.com/Bastos080/portfolio-guilherme-de-bastos-santana)
+- **Repositório do Portfólio Principal:** [Voltar ao Portfólio Principal][(https://github.com/Bastos080/portfolio-guilherme-de-bastos-santana)](https://bastos080.github.io/site1/)
 
 ---
 © 2026 Guilherme de Bastos Santana. Todos os direitos reservados.
