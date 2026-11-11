@@ -1,35 +1,36 @@
-# 🕹️ A Era dos Games — A Evolução dos Videogames
+# 🌐 Futuro & Sociedade — Análise Socioeconômica da Geração Z
 
 ## 📝 Descrição do Projeto
-O **A Era dos Games** é uma aplicação web interativa e responsiva desenvolvida para documentar a história, evolução tecnológica e os principais marcos da indústria dos videogames[cite: 16]. 
+O **Futuro & Sociedade** é uma aplicação web interativa e de cunho analítico focada na **análise socioeconômica da Geração Z e no impacto do trabalho moderno**[cite: 17]. 
 
-A plataforma apresenta desde o surgimento dos primeiros consoles e inventores (como Ralph Baer e o Magnavox Odyssey)[cite: 16], passando pelas gerações clássicas de 8 e 16-bits (Atari 2600, SNES, Mega Drive)[cite: 16, 17], a transição para os gráficos 3D e mídias em CD/DVD (PlayStation 1, Nintendo 64, PlayStation 2)[cite: 17, 19], até chegar aos consoles modernos de última geração (PlayStation 5 e Xbox Series X/S)[cite: 16, 17].
+A plataforma aborda os desafios da contemporaneidade[cite: 18], explorando como a aceleração tecnológica, a Inteligência Artificial[cite: 20], a conectividade permanente[cite: 19] e a cultura de alta performance[cite: 19] afetam o bem-estar mental, a busca por estabilidade[cite: 18] e a construção de carreiras com propósito. O site combina um layout limpo, design editorial elegante e ferramentas práticas de autoavaliação (questionário de equilíbrio digital)[cite: 20] e diretrizes estratégicas para profissionais e organizações[cite: 21].
 
-O projeto foi construído por **Guilherme de Bastos Santana** com foco em organização multipáginas[cite: 14], usabilidade moderna em modo escuro (dark theme)[cite: 16], tabelas de dados[cite: 19] e componentes de sanfona (accordion) para dúvidas frequentes[cite: 20].
+O projeto foi desenvolvido por **Guilherme de Bastos Santana** com foco em usabilidade, design responsivo, estruturação de conteúdo socioeconômico e engajamento do usuário.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- 💻 **Front-End:** HTML5, CSS3 e Bootstrap 5 (Layout responsivo e componentes UI)[cite: 19, 20]
-- ⚡ **Funcionalidades:** JavaScript
+- 💻 **Front-End:** HTML5, CSS3 e JavaScript
 - 🔧 **Ambiente de Desenvolvimento:** VS Code
 - 📦 **Controle de Versão:** Git e GitHub
 - 🤖 **IAs de Apoio ao Desenvolvimento:** ChatGPT, Claude, Gemini, DeepSeek e GitHub Copilot
 
 ---
 
-## ✨ Seções da Aplicação
-- 🏠 **Início (`index.html`):** Introdução à história dos videogames, linha do tempo das 9 gerações e pioneiros da indústria[cite: 16].
-- 📖 **Sobre (`sobre.html`):** Resumo detalhado dos principais marcos históricos por era e fabricante[cite: 17].
-- 🖼️ **Galeria (`galeria.html`):** Vitrine visual em grid com cartões dos consoles mais icônicos da história[cite: 18].
-- 📊 **Dados (`dados.html`):** Tabela comparativa de vendas globais de consoles[cite: 19], análise de impacto cultural[cite: 19] e seção interativa de Dúvidas Frequentes (FAQ)[cite: 20].
-- 📞 **Contato (`contato.html`):** Formulário e canais de contato da aplicação[cite: 14].
+## ✨ Seções e Funcionalidades da Aplicação
+- 🏠 **Início (Home):** Apresentação do tema central com carrossel/banners interativos focados nas tendências de mercado, transformações digitais e ansiedade digital[cite: 17, 20].
+- 📊 **Impactos:** Panorama geral abordando as três forças que moldam a nova geração (*Conectividade Permanente*, *Cultura da Alta Performance* e *Inteligência Artificial*) e a evolução do trabalho[cite: 19, 20].
+- 📖 **Sobre / Conceito:** Explicação profunda sobre a "Ansiedade Digital", esgotamento mental e a transição da jornada fixa para o trabalho sempre conectado[cite: 20].
+- 🎯 **Estratégias:** Direcionamentos práticos divididos para candidatos/jovens profissionais e empresas/lideranças, além dos "Cinco Eixos para Cuidar da Rotina" e um Plano de Ajuste em 4 Passos[cite: 21, 22].
+- 📝 **Questionário:** Ferramenta interativa de autoavaliação para medir o equilíbrio digital do utilizador através de afirmações sobre o quotidiano[cite: 20, 23].
+- 📞 **Contato:** Canal direto para mensagens, dúvidas e feedback dos utilizadores[cite: 24].
 
 ---
 
 ## 💻 Deploy & Links do Projeto
-- 🌐 **Acesse o site no ar:**  https://bastos080.github.io/era-dos-games3/
+- 🌐 **Acesse o site no ar:** https://bastos080.github.io/Atividade-4/
+- 
 - ↩️ **Voltar ao repositório principal:** (https://github.com/Bastos080/portfolio-guilherme-de-bastos-santana)
 
 ---
-© 2026 Guilherme de Bastos Santana. Todos os direitos reservados.[cite: 16, 20]
+© 2026 Guilherme de Bastos Santana. Todos os direitos reservados.
