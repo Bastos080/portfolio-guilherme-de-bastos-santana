@@ -55,9 +55,10 @@ Atualmente cursando o **2º semestre** do tecnólogo em **Análise e Desenvolvim
 #### 🌐 Desenvolvimento Front-End & Web
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **A Era dos Games** | Aplicação web responsiva sobre a evolução dos videogames usando Bootstrap 5.3.3. | [Ver Repositório](https://github.com/Bastos080/era-dos-games1) |
-| **Projeto LIBRALI** | Plataforma acadêmica de apoio ao ensino de LIBRAS com dicionários visuais e jogos interativos em JS. | [Ver Projeto](./projeto-librali/) |
-| **Site dr.consulta** | Web app full-stack para agendamentos de consultas desenvolvido com HTML, CSS, PHP e MySQL. | [Ver Projeto](./projeto-dr-consulta/) |
+| **UrbanStyle** | E-commerce e vitrine digital de moda streetwear focado em modelagens amplas (Baggy, Cargo, Wide Leg). | [Ver Projeto](./AT2-Deploy-de-Site/) |
+| **Calculadora IMC** | Aplicação web interativa para cálculo rápido do Índice de Massa Corporal. | [Ver Projeto](./AT3-Calculadora-IMC/) |
+| **A Era dos Games** | Aplicação web multipáginas responsiva sobre a história e evolução dos videogames com Bootstrap 5. | [Ver Projeto](./AT4-Site-Multi-Paginas-Boostrap/) |
+| **Futuro & Sociedade** | Análise socioeconômica da Geração Z, impacto do trabalho moderno e questionário interativo de equilíbrio digital. | [Ver Projeto](./AT5-Front-End-copilotado-com-IA/) |
 
 #### 🗃 Banco de Dados & Algoritmos
 | Projeto | Descrição | Link |
@@ -70,5 +71,8 @@ Atualmente cursando o **2º semestre** do tecnólogo em **Análise e Desenvolvim
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
 - `README.md`: Arquivo de apresentação principal do portfólio.
-- `/AT1-Paginas-HTML/` até `/AT5-Front-End-Copilotado-com-IA/`: Atividades de desenvolvimento Front-End acadêmicas.
+- `/AT2-Deploy-de-Site/`: Projeto UrbanStyle (E-commerce Streetwear).
+- `/AT3-Calculadora-IMC/`: Calculadora de IMC interativa.
+- `/AT4-Site-Multi-Paginas-Boostrap/`: A Era dos Games (Site multipáginas).
+- `/AT5-Front-End-copilotado-com-IA/`: Futuro & Sociedade (Análise Gen Z).
 - `/projeto-kallan-calcados/`: Scripts SQL e documentos de modelagem de banco de dados.
