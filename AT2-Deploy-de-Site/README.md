@@ -4,12 +4,6 @@
 O **UrbanStyle** é um projeto de desenvolvimento web front-end focado na criação de uma plataforma de e-commerce e vitrine digital inspirada nas principais tendências da **cultura urbana e streetwear**[cite: 9]. 
 
 O site foi desenvolvido para destacar peças de vestuário de modelagem ampla e despojada (como calças *Baggy*, *Wide Leg* e *Cargo*)[cite: 9], combinando um design minimalista, elegante e de forte identidade visual com uma navegação fluida e intuitiva para o usuário[cite: 9].
-
----
-
-## 💻 Deploy do Projeto
-👉 **(https://bastos080.github.io/portfolio-guilherme-de-bastos-santana/AT2-Deploy-de-Site/)**
-
 ---
 
 ## 🚀 Tecnologias e Ferramentas Utilizadas
@@ -28,8 +22,10 @@ O site foi desenvolvido para destacar peças de vestuário de modelagem ampla e 
 
 ---
 
-## 🔗 Links Úteis
-- **Repositório do Portfólio Principal:** [Voltar ao Portfólio Principal][(https://github.com/Bastos080/portfolio-guilherme-de-bastos-santana)](https://bastos080.github.io/site1/)
 
+
+## 💻 Deploy do Projeto
+👉 **(https://bastos080.github.io/portfolio-guilherme-de-bastos-santana/AT2-Deploy-de-Site/)**
+👉 Acesse o Portfólio Principal: (https://github.com/Bastos080/portfolio-guilherme-de-bastos-santana)
 ---
 © 2026 Guilherme de Bastos Santana. Todos os direitos reservados.
