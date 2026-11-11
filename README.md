@@ -1,5 +1,5 @@
 # Guilherme de Bastos Santana
-> **Estudante de Análise e Desenvolvimento de Sistemas** 🚀 | Desenvolvedor Front-End & Apaixonado por Tecnologia
+> **Estudante de Análise e Desenvolvimento de Sistemas** 🚀 
 
 ---
 
