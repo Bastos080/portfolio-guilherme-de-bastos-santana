@@ -1,29 +1,34 @@
-# 🎬 Nome do Projeto
+# 🌐 Página Pessoal Semântica em HTML
+
 ## 📝 Descrição do Projeto
-Este projeto consiste em um motor de recomendação inteligente que
-utiliza técnicas de filtragem colaborativa e baseada em conteúdo. O
-objetivo principal é mitigar a "paralisia de escolha", oferecendo aos
-usuários sugestões personalizadas com base em seu histórico de
-visualização e preferências de gênero.
-Desenvolvido como parte das disciplinas de **Desenvolvimento Front-End
-Para Web (2026.2)**, o sistema processa grandes volumes de dados
-(datasets de filmes e avaliações) para identificar padrões de
-comportamento e similaridades entre títulos, utilizando algoritmos de
-aprendizado de máquina para prever a nota que um usuário daria a um
-filme ainda não assistido.
-## 🚀 Tecnologias Utilizadas
-* **Linguagem:** HTML5, CSS e JavaScript
-* **Bibliotecas:** Bootstrap
-* **Ferramentas:** VSCode
-## 📊 Resultados e Aprendizados
-O projeto alcançou resultados sólidos em ambiente de teste, demonstrando
-a eficácia do modelo híbrido.
-* **O modelo atingiu 92% de acurácia** nos testes de validação.
-* **Redução de Ruído:** Aprendi a aplicar técnicas de limpeza e
-normalização de dados para melhorar a performance dos algoritmos.
-* **Visualização de Clusters:** Implementei gráficos que mostram como o
-sistema agrupa filmes por afinidade.
-## 💻 Deploy do projeto
-[Clique para acessar](https://seu-usuario.github.io/xxxxxxxxx/)
+Este projeto consiste no desenvolvimento de uma **Página Pessoal** estruturada inteiramente com foco em **HTML Semântico** e boas práticas de desenvolvimento Front-End. O objetivo principal é apresentar a identidade profissional, competências técnicas e a trajetória acadêmica de forma acessível, limpa e otimizada para os navegadores e leitores de tela.
+
+Desenvolvido por **Guilherme de Bastos Santana**[cite: 1] como parte das atividades práticas de **Análise e Tecnologias Web**, o projeto aplica conceitos de estruturação correta de tags (`<header>`, `<main>`, `<section>`, `<footer>`), organização de conteúdo e estilização responsiva.
+
 ---
-[Voltar ao início](https://github.com/seu-usuario/portfolio-usuario)
+
+## 👨‍💻 Sobre o Desenvolvedor
+Estudante do **2º semestre** de **Análise e Desenvolvimento de Sistemas na UNICID (Campus Tatuapé)**[cite: 1]. Apaixonado por tecnologia, com foco em desenvolvimento web, usabilidade e lógica de programação.
+
+---
+
+## 🚀 Tecnologias e Ferramentas Utilizadas
+- **Linguagens:** HTML5 (com marcação semântica avançada) e CSS3
+- **Controle de Versão:** Git e GitHub
+- **Ambiente de Desenvolvimento:** VS Code
+
+---
+
+## 💡 Destaques Semânticos Implementados
+- **Uso Correto de Tags Estruturais:** Organização lógica utilizando `<header>` para o topo, `<nav>` para navegação, `<main>` para o conteúdo principal, `<section>` para agrupar blocos de informações e `<footer>` para o rodapé.
+- **Acessibilidade e SEO:** Emprego de atributos de texto alternativo (`alt`), hierarquia adequada de títulos (`<h1>` a `<h6>`) e estruturação voltada para a legibilidade.
+- **Responsividade:** Layout adaptável para diferentes tamanhos de tela.
+
+---
+
+## 💻 Deploy e Acesso
+- **Repositório do Projeto:** [Ver Código-Fonte](https://github.com/Bastos080/portfolio-guilherme-de-bastos-santana)
+- **Acesse o Portfólio Principal:** [Voltar à Página Principal](https://github.com/Bastos080/portfolio-guilherme-de-bastos-santana)
+
+---
+© 2026 Guilherme de Bastos Santana. Todos os direitos reservados.
